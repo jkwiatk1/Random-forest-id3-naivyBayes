@@ -1,10 +1,10 @@
-## Projekt zaliczeniowy z przedmiotu UMA. 
-Random Forest z ID3 i Naiwnym  Klasyfikatorami Bayessowskimi.
+## Dwuosobowy projekt zaliczeniowy z przedmiotu "Uczenie Maszynowe"
+Random Forest z drzewem ID3 + co któryś klasyfikator to naiwny klasyfikator bayesowski. 
 
 ### Instrukcja uruchomienia
 
 Wymagania:
-pytohon3 w wersji [3.7, 3.9]
+python3 w wersji [3.7, 3.9]
 
 1. z głównego katalogu uruchomić w terminalu: 
    
